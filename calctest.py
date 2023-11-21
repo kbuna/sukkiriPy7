@@ -1,4 +1,34 @@
 
+
+
+
+
+
+関数定義
+calc
+
+
+# view
+# bg・見下ろし
+# 　・真横
+
+
+# ・マス管理　透明
+# ・
+
+# move
+
+# ・上下左右チェック
+
+
+# ・壁チェック？
+# ・ランダム
+
+
+
+
+
+
 import time
 
 def press_button(button, plus):

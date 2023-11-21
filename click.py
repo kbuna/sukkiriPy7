@@ -51,10 +51,10 @@ class MoneyClicker:
             self.update_Money_count()
             self.root.after(1000, self.auto_Gain)
 
-    #現在のマネーを表示する
+    #現在のマネーの表示
     def update_Money_count(self):
         self.Money_label.config(text=f"Moneys: {self.money}")
-    #現在の利得を表示する
+    #現在の利得の表示
     def update_Gain(self):
         self.auto_label.config(text=f"Auto Gain: {self.property}")
 
